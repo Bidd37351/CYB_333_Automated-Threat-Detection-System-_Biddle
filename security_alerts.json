@@ -1,0 +1,17 @@
+[
+    {
+        "time": "2026-10-11T17:41:07",
+        "severity": "LOW",
+        "type": "FILE_CHANGE",
+        "details": "2026-10-11 10:03:00 FILE_CHANGE file=system_config.ini",
+        "line_number": 5
+    },
+    {
+        "time": "2026-10-11T17:41:07",
+        "severity": "HIGH",
+        "type": "REPEATED_FAILED_LOGINS",
+        "source_ip": "203.0.113.25",
+        "attempts": 3,
+        "details": "3 failed logins detected from 203.0.113.25"
+    }
+]

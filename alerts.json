@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-10-11T18:24:27.032219",
+        "severity": "HIGH",
+        "type": "REPEATED_FAILED_LOGINS",
+        "source_ip": "203.0.113.25",
+        "attempts": 3,
+        "message": "Potential brute-force activity from 203.0.113.25"
+    },
+    {
+        "timestamp": "2026-10-11T20:47:46.780853",
+        "severity": "HIGH",
+        "type": "REPEATED_FAILED_LOGINS",
+        "source_ip": "203.0.113.25",
+        "attempts": 3,
+        "message": "Potential brute-force activity from 203.0.113.25"
+    }
+]
